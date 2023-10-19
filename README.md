@@ -1,8 +1,9 @@
-<p align="center">
-
-</p>
-
 <h1>Deploying Active Directory and Creating Users</h1>
+
+![image](https://github.com/Christopherdek/Dep-ActiveD/assets/148359456/d1e221ad-0e55-4691-81ef-20286bcebe5a)
+
+
+
 This is a brief tutorial that outlines the beginning stages of Active directory by confirming the connectivity between the client and Domain Controller and the installation of Active Directory. Towards the end, we will take a look at how to create a organizational unit and a username and log in with the new account.<br />
 
 
